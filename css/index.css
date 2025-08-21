@@ -19,7 +19,9 @@
 .corPreto a:active{
     color: blueviolet;
 }
-
+.corPreto a:focus{
+    color: white;
+}
 body{
     overflow-x: hidden;
 }
